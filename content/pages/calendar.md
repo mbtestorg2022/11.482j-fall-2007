@@ -4,19 +4,201 @@ title: Calendar
 uid: 51ddb041-0a39-2963-552c-f5162b029263
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and overview of a theoretical basis for regional economic analyses | &nbsp; |
-| 2 | Background on regional input-output modeling and modeling assumptions | &nbsp; |
-| 3 | Background on equations and data preparation for the REMI model | Problem set 1, part I, due three days after Ses #3 |
-| 4 |  {{< br >}}{{< br >}} Alternative types of regional input-output models and multipliers ([PDF]({{< baseurl >}}/resources/lec)) {{< br >}}{{< br >}} Guest speaker: Glen Weisbrod, President, Economic development research group {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Regional economic analyses and forecasting | Problem set 1, part II, due three days after Ses #5 |
-| 6 |  {{< br >}}{{< br >}} Regional econometric modeling, part I {{< br >}}{{< br >}} Outside of class time this week: meet with Greg Perkins, research manager, at Boston Redevelopment Authority. {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Regional econometric modeling, part II | &nbsp; |
-| 8 | Model comparisons | &nbsp; |
-| 9 | Massachusetts economy, case study | Problem set 2 due three days after Ses #9 |
-| 10 | Formulating and applying dynamic economic models | &nbsp; |
-| 11 | Use of regional models in policy analyses | &nbsp; |
-| 12 | Use of regional models in policy analyses (cont.) | &nbsp; |
-| 13 | Organization and preparation of seminar for client | Problem set 3 due |
-| 14 | Seminar for client: socioeconomic impact evaluation |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and overview of a theoretical basis for regional economic analyses
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Background on regional input-output modeling and modeling assumptions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Background on equations and data preparation for the REMI model
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1, part I, due three days after Ses #3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Alternative types of regional input-output models and multipliers ([PDF]({{< baseurl >}}/resources/lec))
+
+Guest speaker: Glen Weisbrod, President, Economic development research group
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Regional economic analyses and forecasting
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1, part II, due three days after Ses #5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Regional econometric modeling, part I
+
+Outside of class time this week: meet with Greg Perkins, research manager, at Boston Redevelopment Authority.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Regional econometric modeling, part II
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Model comparisons
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Massachusetts economy, case study
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due three days after Ses #9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Formulating and applying dynamic economic models
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Use of regional models in policy analyses
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Use of regional models in policy analyses (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Organization and preparation of seminar for client
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Seminar for client: socioeconomic impact evaluation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
